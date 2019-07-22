@@ -2,6 +2,10 @@
 
 classify spam versus non spam SMS
 
+# Method- Text Classifier
+
+Text classification is the process of assigning tags or categories to text according to its content. It’s one of the fundamental tasks in Natural Language Processing (NLP) with broad applications such as sentiment analysis, topic labeling, spam detection, and intent detection(fraud, hate speech, trolling etc).
+
 # Dataset
 Data source :https://archive.ics.uci.edu/ml/machine-learning-databases/00228/ 
 
